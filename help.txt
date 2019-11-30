@@ -1,0 +1,90 @@
+                                 
+
+                                   DISCLAIMER
+
+
+This program is Beta, and has no warranty. It may eat your files,
+call you names, or might even give you headaches and heart attacks. The authors take no responsibility for these possible events.
+
+opencv c++ powered image editor
+
+About to Release 0.0.0 - The "Holy cow, we made a 0.0" about to release.
+
+================
+How to run :
+===============
+After you compile the run.cpp by
+g++ run.cpp -orun
+./run(Function you need)
+for example
+./run resizing===>opens the resizing window
+
+./run help===>gives you instructions
+
+
+==========
+About:
+==========
+The soul purpose of this utility is to get us marks (hopefully).
+
+This utility can not  write CD-ROMs.  USB Floppy is NOT supported at this time you cannot upload your own images you can only edit the image preloaded thats because read the first line. if you want to edit the image you desier then you have to open the source file and rename the image to face and type should be jpeg and paste the renamed image inside the source folder then you are good to go if any doubt dont hesitate to email our Head his eamil is yassinehadari12@gmail.com .
+
+
+
+Future releases:you will definitley get one if we fail this semester
+
+
+Requirements:
+1. Linux with opencv and c++ installed the source code
+
+Short Version:
+1. Find a better software
+
+=============
+Features:
+=============
+
+Erosion
+Dilation
+Resizing
+Blending
+Lightning
+Edge Detection
+All
+Shape detection (Experimental)
+
+=============
+Bugs:
+=============
+
+None till 9/06/2018
+
+================
+ Issues:
+================
+
+These are being looked into if there is a future releases.
+
+========================
+Features explanation:
+========================
+
+Erosion============>This one makes bigger bright zones on the image
+
+Dilation==========>This one makes bigger Darker zones on the image
+
+Resizing========>Good old resizing
+
+Blending======>The lets you Blend two images in to one
+
+Lightning=====>This helps with lighting and darkning of the image
+ 
+All===>Opens every function
+
+Edge Detection==>finds all the edges of the objets on the image, and mark them in white, while getting everything else in black
+
+Shape Detection=>This one is Experimental thing we have to add at the end because Blending is apperently not a “advanced function”.But this one is actually pretty intresting as we computed it to detect 4 shapes it detects shapes in any images its actually pretty cool!!
+
+Special thanks:
+    I take this special moment to thank a true insperation for the project EMMA WATSON,she helped as get the work done faster.She is great.
+
